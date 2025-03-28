@@ -48,37 +48,3 @@ export default tseslint.config({
   },
 })
 ```
-
-
-# Project 
-
-## Idea 
-
-BackOffice the ecommerce website.
-
-## Dados
-
-- Authentication
-- Produtos
-- Usuários
-- Pedidos
-- Categorias
-- Id
-- Fornecedores
-  - nome
-   
-- notificacoes
-    - Encomenda efetuada
-    - Path da encomenda
-    - Chegou 
-
-- Orçamento
-    - Gastos
-    - Receita
-    - Lucros
-    - Visao Anual
-    - Visao mensal
-    - Categorias
-    - Fornecedores
-
-- Drive Company
